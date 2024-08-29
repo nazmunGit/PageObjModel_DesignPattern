@@ -1,0 +1,1217 @@
+2024-07-15 11:58:22.479 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 11:58:24.993 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 11:58:27.772 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 11:58:27.836 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 11:58:28.867 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 11:58:28.886 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 11:58:29.080 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 11:58:29.210 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 11:58:29.419 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92b0beb457365760c7d38bf6ab345819, clickElement {id=f.AA20DC7F68FD1E17806604846AD4A90D.d.7691E605BEA4002A7F4B0395A7898BCB.e.156}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61809}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61809/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (92b0beb457365760c7d38bf6ab345819)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 92b0beb457365760c7d38bf6ab345819
+2024-07-15 11:58:35.459 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 11:58:37.990 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 11:58:40.155 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 11:58:48.902 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 11:58:51.063 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 11:58:53.270 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 11:58:55.407 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 11:58:56.517 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 11:58:56.572 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 11:58:59.191 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 11:59:01.316 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 11:59:02.846 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 11:59:02.857 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 11:59:03.038 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 11:59:09.023 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 11:59:09.280 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92b0beb457365760c7d38bf6ab345819, clickElement {id=f.AA20DC7F68FD1E17806604846AD4A90D.d.D0F3459AF0F79B1333DF011D652486AC.e.703}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61809}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61809/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (92b0beb457365760c7d38bf6ab345819)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 92b0beb457365760c7d38bf6ab345819
+2024-07-15 11:59:13.125 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 11:59:13.392 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92b0beb457365760c7d38bf6ab345819, clickElement {id=f.AA20DC7F68FD1E17806604846AD4A90D.d.B75598DB56F28E7F4C2499D4610562C0.e.811}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61809}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61809/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (92b0beb457365760c7d38bf6ab345819)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 92b0beb457365760c7d38bf6ab345819
+2024-07-15 11:59:13.559 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 11:59:13.681 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 11:59:13.909 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 11:59:14.299 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 11:59:14.558 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 11:59:14.566 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 11:59:14.807 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 11:59:16.180 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 11:59:17.540 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 26). Other element would receive the click: <div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92b0beb457365760c7d38bf6ab345819, clickElement {id=f.AA20DC7F68FD1E17806604846AD4A90D.d.9A8D5D70142F526D1B5ABEB6074861B1.e.946}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61809}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61809/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (92b0beb457365760c7d38bf6ab345819)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: 92b0beb457365760c7d38bf6ab345819
+2024-07-15 11:59:23.250 [main] ERROR reusables.basePage - unexpected alert open: {Alert text : Checkout is completed!}
+  (Session info: chrome=126.0.6478.127): Checkout is completed!
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92b0beb457365760c7d38bf6ab345819, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61809}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61809/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92b0beb457365760c7d38bf6ab345819
+2024-07-15 11:59:23.415 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 11:59:23.685 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:02:07.671 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:02:09.406 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:02:12.295 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:02:12.369 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:02:13.353 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:02:13.376 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:02:13.580 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:02:13.721 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:02:13.961 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c41cac1c70588c4eb9518f7ffa1a438a, clickElement {id=f.432518C24CBF40CAE5ED642F29EB24E0.d.2500D4EE6789FED54CBCDF11BD6F7945.e.169}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61905}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61905/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c41cac1c70588c4eb9518f7ffa1a438a)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: c41cac1c70588c4eb9518f7ffa1a438a
+2024-07-15 12:02:20.009 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:02:22.247 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:02:24.432 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:02:31.430 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:02:33.594 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:02:36.240 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:02:38.418 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:02:39.453 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:02:39.469 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:02:40.909 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:02:43.042 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:02:44.248 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:02:44.264 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:02:44.442 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:02:50.513 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:02:50.802 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c41cac1c70588c4eb9518f7ffa1a438a, clickElement {id=f.432518C24CBF40CAE5ED642F29EB24E0.d.E676A808FE15B2FD7822F1C2029DC1E3.e.745}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61905}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61905/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c41cac1c70588c4eb9518f7ffa1a438a)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: c41cac1c70588c4eb9518f7ffa1a438a
+2024-07-15 12:02:54.605 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:02:54.924 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c41cac1c70588c4eb9518f7ffa1a438a, clickElement {id=f.432518C24CBF40CAE5ED642F29EB24E0.d.6A103E75534F4493CFCA9AB0B306A138.e.847}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61905}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61905/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c41cac1c70588c4eb9518f7ffa1a438a)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: c41cac1c70588c4eb9518f7ffa1a438a
+2024-07-15 12:02:55.109 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:02:55.286 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:02:55.497 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:02:55.777 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:02:56.051 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:02:56.080 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:02:56.627 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:02:57.896 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:02:59.175 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 37). Other element would receive the click: <div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c41cac1c70588c4eb9518f7ffa1a438a, clickElement {id=f.432518C24CBF40CAE5ED642F29EB24E0.d.E7569B90EF0F03AC1BC6AFDDF8D3693D.e.979}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61905}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61905/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c41cac1c70588c4eb9518f7ffa1a438a)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: c41cac1c70588c4eb9518f7ffa1a438a
+2024-07-15 12:03:04.207 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:03:04.471 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:04:30.107 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:04:31.708 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:04:35.859 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:04:35.924 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:04:36.963 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:04:36.979 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:04:37.175 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:04:37.308 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:04:37.541 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3c45dff61a6322090316781ca51ec4a, clickElement {id=f.0F3120D28EDEF34F8247A3ADECD3755A.d.81AAF299ABF0B8FB0E78F83FDF8C23A6.e.155}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61999}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61999/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b3c45dff61a6322090316781ca51ec4a)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: b3c45dff61a6322090316781ca51ec4a
+2024-07-15 12:04:43.584 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:04:45.262 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:04:47.439 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:04:52.990 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:04:55.139 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:04:57.164 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:04:59.297 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:05:00.368 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:05:00.409 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:05:01.960 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:05:04.108 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:05:05.391 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:05:05.405 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:05:05.607 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:05:11.594 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:05:11.877 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3c45dff61a6322090316781ca51ec4a, clickElement {id=f.0F3120D28EDEF34F8247A3ADECD3755A.d.5CA630BBA060BC8EC872FB143B0CE940.e.711}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61999}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61999/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b3c45dff61a6322090316781ca51ec4a)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: b3c45dff61a6322090316781ca51ec4a
+2024-07-15 12:05:15.574 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:05:15.854 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3c45dff61a6322090316781ca51ec4a, clickElement {id=f.0F3120D28EDEF34F8247A3ADECD3755A.d.92E42B78FF66818E30215D9D4CAB912C.e.822}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61999}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61999/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b3c45dff61a6322090316781ca51ec4a)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: b3c45dff61a6322090316781ca51ec4a
+2024-07-15 12:05:16.051 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:05:16.178 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:05:16.365 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:05:16.621 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:05:16.877 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:05:16.901 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:05:17.136 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:05:18.608 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:05:20.006 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 11). Other element would receive the click: <div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3c45dff61a6322090316781ca51ec4a, clickElement {id=f.0F3120D28EDEF34F8247A3ADECD3755A.d.EEA9B19549ED74DAB0AB17A272CF5E17.e.958}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61999}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61999/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b3c45dff61a6322090316781ca51ec4a)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: b3c45dff61a6322090316781ca51ec4a
+2024-07-15 12:05:22.682 [main] ERROR reusables.basePage - unexpected alert open: {Alert text : Checkout is completed!}
+  (Session info: chrome=126.0.6478.127): Checkout is completed!
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3c45dff61a6322090316781ca51ec4a, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61999}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61999/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b3c45dff61a6322090316781ca51ec4a
+2024-07-15 12:05:27.934 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:05:28.188 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:06:25.311 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:06:26.964 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:06:30.988 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:06:31.062 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:06:32.135 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:06:32.153 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:06:32.354 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:06:32.501 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:06:32.733 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [14d98fb106067fc10c34c6b0e668d5dc, clickElement {id=f.C03872D0E7ED02B42563D16B80BD879A.d.7C2EF4FC226565AE66145DC6B299FF86.e.189}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62131/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (14d98fb106067fc10c34c6b0e668d5dc)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 14d98fb106067fc10c34c6b0e668d5dc
+2024-07-15 12:06:38.804 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:06:40.971 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:06:43.134 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:06:48.527 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:06:50.719 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:06:52.509 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:06:54.664 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:06:55.674 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:06:55.711 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:06:58.105 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:07:00.250 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:07:01.345 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:07:01.353 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:07:01.551 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:07:07.649 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:07:07.967 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [14d98fb106067fc10c34c6b0e668d5dc, clickElement {id=f.C03872D0E7ED02B42563D16B80BD879A.d.D9330249F95B75DFE732722FC4159030.e.766}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62131/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (14d98fb106067fc10c34c6b0e668d5dc)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 14d98fb106067fc10c34c6b0e668d5dc
+2024-07-15 12:07:12.304 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:07:12.540 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [14d98fb106067fc10c34c6b0e668d5dc, clickElement {id=f.C03872D0E7ED02B42563D16B80BD879A.d.7B2506D3496D173CD600C869C2C68859.e.838}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62131/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (14d98fb106067fc10c34c6b0e668d5dc)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 14d98fb106067fc10c34c6b0e668d5dc
+2024-07-15 12:07:12.669 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:07:12.923 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:07:13.067 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:07:13.333 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:07:13.593 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:07:13.625 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:07:13.850 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:07:15.086 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:07:16.408 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 38). Other element would receive the click: <div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [14d98fb106067fc10c34c6b0e668d5dc, clickElement {id=f.C03872D0E7ED02B42563D16B80BD879A.d.3598A29F7A6084B02790BCB936C6DAA8.e.972}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62131/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (14d98fb106067fc10c34c6b0e668d5dc)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: 14d98fb106067fc10c34c6b0e668d5dc
+2024-07-15 12:07:21.384 [main] ERROR reusables.basePage - unexpected alert open: {Alert text : Checkout is completed!}
+  (Session info: chrome=126.0.6478.127): Checkout is completed!
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [14d98fb106067fc10c34c6b0e668d5dc, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62131/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 14d98fb106067fc10c34c6b0e668d5dc
+2024-07-15 12:07:26.533 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:07:26.799 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:08:37.590 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:08:39.233 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:08:47.097 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:08:47.163 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:08:48.145 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:08:48.161 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:08:48.350 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:08:48.480 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:08:48.715 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5606551180112894c3e9085c6942ba1b, clickElement {id=f.0BBC3B62EA0CF194ABFC67F4E7CFA5C2.d.B68A9F2DB8FEFB1132F76F8065A0DB79.e.167}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62246/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5606551180112894c3e9085c6942ba1b)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 5606551180112894c3e9085c6942ba1b
+2024-07-15 12:08:54.763 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:08:57.391 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:08:59.565 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:09:13.945 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:09:16.109 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:09:19.958 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:09:22.112 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:09:23.231 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:09:23.258 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:09:25.598 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:09:27.711 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:09:28.867 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:09:28.888 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:09:29.078 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:09:35.058 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:09:35.374 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5606551180112894c3e9085c6942ba1b, clickElement {id=f.0BBC3B62EA0CF194ABFC67F4E7CFA5C2.d.C0C9AB24BC4129F465F9FA39DEFE1943.e.730}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62246/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5606551180112894c3e9085c6942ba1b)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 5606551180112894c3e9085c6942ba1b
+2024-07-15 12:09:39.507 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:09:39.904 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5606551180112894c3e9085c6942ba1b, clickElement {id=f.0BBC3B62EA0CF194ABFC67F4E7CFA5C2.d.EED7D8915C1100E9FD84DA0389C18DA2.e.841}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62246/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5606551180112894c3e9085c6942ba1b)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 5606551180112894c3e9085c6942ba1b
+2024-07-15 12:09:40.030 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:09:40.387 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:09:40.561 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:09:40.816 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:09:41.159 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:09:41.203 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:09:41.533 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:09:42.802 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:09:44.117 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 37). Other element would receive the click: <div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5606551180112894c3e9085c6942ba1b, clickElement {id=f.0BBC3B62EA0CF194ABFC67F4E7CFA5C2.d.BBFF9AABE255521EB82F65303E5419AC.e.979}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62246/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5606551180112894c3e9085c6942ba1b)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: 5606551180112894c3e9085c6942ba1b
+2024-07-15 12:09:50.011 [main] ERROR reusables.basePage - unexpected alert open: {Alert text : Checkout is completed!}
+  (Session info: chrome=126.0.6478.127): Checkout is completed!
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5606551180112894c3e9085c6942ba1b, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62246/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5606551180112894c3e9085c6942ba1b
+2024-07-15 12:09:57.133 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:09:57.387 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:11:24.573 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:11:26.197 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:11:28.561 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:11:28.619 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:11:29.516 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:11:29.532 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:11:29.728 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:11:29.859 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:11:30.093 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a15a77bb1cdda9bc7b01026746c3912, clickElement {id=f.22F8E61D660277C99F9DC334A88C6A94.d.5EB2C36AADB78D3E0ED46DE4C8A6E664.e.177}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62373}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62373/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a15a77bb1cdda9bc7b01026746c3912)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 0a15a77bb1cdda9bc7b01026746c3912
+2024-07-15 12:11:36.142 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:11:37.620 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:11:39.794 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:11:50.361 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:11:52.523 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:11:55.123 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:11:57.281 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:11:58.317 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:11:58.353 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:12:00.411 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:12:02.538 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:12:04.083 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:12:04.097 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:12:04.283 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:12:10.400 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:12:10.684 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a15a77bb1cdda9bc7b01026746c3912, clickElement {id=f.22F8E61D660277C99F9DC334A88C6A94.d.EECF22AA33E2313687D3406AA26223D5.e.738}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62373}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62373/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a15a77bb1cdda9bc7b01026746c3912)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 0a15a77bb1cdda9bc7b01026746c3912
+2024-07-15 12:12:16.019 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:12:16.230 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a15a77bb1cdda9bc7b01026746c3912, clickElement {id=f.22F8E61D660277C99F9DC334A88C6A94.d.55B0D68913B5045002FD1534CE2823DB.e.843}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62373}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62373/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a15a77bb1cdda9bc7b01026746c3912)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 0a15a77bb1cdda9bc7b01026746c3912
+2024-07-15 12:12:16.349 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:12:16.479 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:12:16.627 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:12:16.874 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:12:17.157 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:12:17.186 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:12:17.425 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:12:18.699 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:12:20.007 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 35). Other element would receive the click: <div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a15a77bb1cdda9bc7b01026746c3912, clickElement {id=f.22F8E61D660277C99F9DC334A88C6A94.d.43C9CD6C0A70072C43FFDC94214E96E5.e.976}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62373}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62373/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a15a77bb1cdda9bc7b01026746c3912)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: 0a15a77bb1cdda9bc7b01026746c3912
+2024-07-15 12:12:32.856 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:12:33.112 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:16:07.818 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:16:09.417 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:16:14.528 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:16:14.592 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:16:15.552 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:16:15.569 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:16:15.769 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:16:15.900 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:16:16.140 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7639a1f43bb98009e6c4c5da0ee99c8, clickElement {id=f.2813E63584933DE510E97CB456DC3449.d.5B9F87873AF646A981D3E85449648C4E.e.180}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62524}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62524/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f7639a1f43bb98009e6c4c5da0ee99c8)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: f7639a1f43bb98009e6c4c5da0ee99c8
+2024-07-15 12:16:22.177 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:16:24.129 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:16:26.318 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:16:34.606 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:16:36.776 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:16:39.412 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:16:41.561 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:16:42.623 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:16:42.648 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:16:44.503 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:16:46.632 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:16:47.959 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:16:47.978 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:16:48.257 [main] ERROR reusables.basePage - stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7639a1f43bb98009e6c4c5da0ee99c8, clickElement {id=f.2813E63584933DE510E97CB456DC3449.d.CF4803B8974A1C0AB24011C40F8E3F0E.e.708}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62524}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62524/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f7639a1f43bb98009e6c4c5da0ee99c8)] -> xpath: (//span[@class='ast-icon icon-bag'])[1]]
+Session ID: f7639a1f43bb98009e6c4c5da0ee99c8
+2024-07-15 12:16:54.234 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:16:54.526 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7639a1f43bb98009e6c4c5da0ee99c8, clickElement {id=f.2813E63584933DE510E97CB456DC3449.d.CF4803B8974A1C0AB24011C40F8E3F0E.e.713}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62524}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62524/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f7639a1f43bb98009e6c4c5da0ee99c8)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: f7639a1f43bb98009e6c4c5da0ee99c8
+2024-07-15 12:16:58.224 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:16:58.486 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7639a1f43bb98009e6c4c5da0ee99c8, clickElement {id=f.2813E63584933DE510E97CB456DC3449.d.18B9E2873869BDF306F67FD21563CE75.e.826}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62524}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62524/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f7639a1f43bb98009e6c4c5da0ee99c8)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: f7639a1f43bb98009e6c4c5da0ee99c8
+2024-07-15 12:16:58.624 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:16:58.762 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:16:58.914 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:16:59.298 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:16:59.535 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:16:59.555 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:16:59.790 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:17:01.096 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:17:02.400 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 39). Other element would receive the click: <div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7639a1f43bb98009e6c4c5da0ee99c8, clickElement {id=f.2813E63584933DE510E97CB456DC3449.d.C5733CF779597AB963CD9BC5B9B96927.e.959}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62524}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62524/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f7639a1f43bb98009e6c4c5da0ee99c8)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: f7639a1f43bb98009e6c4c5da0ee99c8
+2024-07-15 12:17:14.260 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:17:14.614 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:18:39.062 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:18:40.750 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:18:44.367 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:18:44.431 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:18:45.463 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:18:45.484 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:18:45.684 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:18:45.818 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:18:46.061 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a2c4973931782d4af7f912e37f81327, clickElement {id=f.76751B5FD011945F921324CBD4E548BA.d.FC0D1CCC124745F4CF74D95EDB6F42CD.e.167}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62664}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62664/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a2c4973931782d4af7f912e37f81327)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 0a2c4973931782d4af7f912e37f81327
+2024-07-15 12:18:52.091 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:18:54.735 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:18:56.919 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:19:04.980 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:19:07.169 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:19:09.017 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:19:11.182 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:19:12.386 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:19:12.404 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:19:14.519 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:19:16.657 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:19:17.851 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:19:17.867 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:19:18.065 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:19:24.121 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:19:24.409 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a2c4973931782d4af7f912e37f81327, clickElement {id=f.76751B5FD011945F921324CBD4E548BA.d.916403F577C22A8E94CC8302A29404C2.e.741}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62664}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62664/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a2c4973931782d4af7f912e37f81327)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 0a2c4973931782d4af7f912e37f81327
+2024-07-15 12:19:28.147 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:19:28.542 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a2c4973931782d4af7f912e37f81327, clickElement {id=f.76751B5FD011945F921324CBD4E548BA.d.F12F562CF488060010C590144C502DDA.e.858}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62664}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62664/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a2c4973931782d4af7f912e37f81327)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 0a2c4973931782d4af7f912e37f81327
+2024-07-15 12:19:28.662 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:19:28.779 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:19:29.015 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:19:29.242 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:19:29.513 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:19:29.531 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:19:29.806 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:19:32.159 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:19:32.412 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:21:31.143 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:21:32.792 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:21:36.306 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:21:36.382 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:21:37.365 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:21:37.389 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:21:37.597 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:21:37.725 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:21:37.955 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f00d18da62721d5a6ccd44b966e9a60b, clickElement {id=f.0FC85207BAA22D0E927C8E8C6C910EC5.d.91127C59B2E16E1869ABF97B59BA54AB.e.176}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62754/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f00d18da62721d5a6ccd44b966e9a60b)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: f00d18da62721d5a6ccd44b966e9a60b
+2024-07-15 12:21:43.984 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:21:46.573 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:21:48.733 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:21:59.624 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:22:01.785 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:22:05.235 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:22:07.364 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:22:08.493 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:22:08.522 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:22:10.478 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:22:12.611 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:22:13.836 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:22:13.847 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:22:14.077 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:22:20.046 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:22:20.294 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f00d18da62721d5a6ccd44b966e9a60b, clickElement {id=f.0FC85207BAA22D0E927C8E8C6C910EC5.d.032C131F86B6FDBB9CBFC1ABF4CD2389.e.756}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62754/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f00d18da62721d5a6ccd44b966e9a60b)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: f00d18da62721d5a6ccd44b966e9a60b
+2024-07-15 12:22:25.032 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:22:25.263 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f00d18da62721d5a6ccd44b966e9a60b, clickElement {id=f.0FC85207BAA22D0E927C8E8C6C910EC5.d.65BA2711F07D1FCCB9A0CAB16D8C2375.e.861}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62754/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f00d18da62721d5a6ccd44b966e9a60b)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: f00d18da62721d5a6ccd44b966e9a60b
+2024-07-15 12:22:25.388 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:22:25.531 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:22:25.703 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:22:25.980 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:22:26.245 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:22:26.261 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:22:26.492 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:22:27.803 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:22:29.118 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 38). Other element would receive the click: <div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f00d18da62721d5a6ccd44b966e9a60b, clickElement {id=f.0FC85207BAA22D0E927C8E8C6C910EC5.d.CE0A843391BD07199C2E538EE72E0A57.e.994}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62754/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f00d18da62721d5a6ccd44b966e9a60b)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: f00d18da62721d5a6ccd44b966e9a60b
+2024-07-15 12:22:39.116 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:22:39.405 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:23:49.283 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:23:50.887 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:23:54.950 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:23:55.013 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:23:56.045 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:23:56.064 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:23:56.264 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:23:56.398 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:23:56.603 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed82b0758b57e13fec3069a229c0081f, clickElement {id=f.33B371F16E07D1193766B636021835EE.d.4C5071C4FB8238E0ACBBC90634CBE093.e.156}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62865}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62865/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ed82b0758b57e13fec3069a229c0081f)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: ed82b0758b57e13fec3069a229c0081f
+2024-07-15 12:24:02.644 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:24:05.279 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:24:07.448 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:24:13.117 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:24:15.242 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:24:16.927 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:24:19.081 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:24:20.095 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:24:20.135 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:24:21.887 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:24:24.017 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:24:25.133 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:24:25.148 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:24:25.383 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:24:31.442 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:24:31.699 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed82b0758b57e13fec3069a229c0081f, clickElement {id=f.33B371F16E07D1193766B636021835EE.d.E1CB869E35FDDAC0F24BCA46162F2080.e.724}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62865}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62865/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ed82b0758b57e13fec3069a229c0081f)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: ed82b0758b57e13fec3069a229c0081f
+2024-07-15 12:24:35.355 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:24:35.651 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed82b0758b57e13fec3069a229c0081f, clickElement {id=f.33B371F16E07D1193766B636021835EE.d.ED7CE75FC69FF1F6D8D4E5821ACFC083.e.834}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62865}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62865/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ed82b0758b57e13fec3069a229c0081f)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: ed82b0758b57e13fec3069a229c0081f
+2024-07-15 12:24:35.875 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:24:36.149 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:24:36.398 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:24:36.654 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:24:36.921 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:24:36.943 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:24:37.192 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:24:38.416 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:24:39.748 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 38). Other element would receive the click: <div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed82b0758b57e13fec3069a229c0081f, clickElement {id=f.33B371F16E07D1193766B636021835EE.d.8FF3B643384A7615FBE8C57C07F28E58.e.968}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62865}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62865/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ed82b0758b57e13fec3069a229c0081f)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: ed82b0758b57e13fec3069a229c0081f
+2024-07-15 12:24:46.779 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:24:47.061 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:26:19.091 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:26:20.729 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:26:27.914 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:26:27.981 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:26:28.962 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:26:28.977 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:26:29.174 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:26:29.304 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:26:29.537 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46c55b77617561da0fd318fc5f9d3c83, clickElement {id=f.49FAC0D41008CFFBD226F50C9B704625.d.35528F7B32BD0FF0B0BB9FD2E9793A09.e.180}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62959}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62959/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (46c55b77617561da0fd318fc5f9d3c83)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 46c55b77617561da0fd318fc5f9d3c83
+2024-07-15 12:26:35.563 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:26:39.857 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:26:42.010 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:26:55.146 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:26:57.297 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:26:59.813 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:27:01.974 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:27:03.076 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:27:03.117 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:27:05.505 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:27:07.623 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:27:09.081 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:27:09.101 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:27:09.376 [main] ERROR reusables.basePage - stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46c55b77617561da0fd318fc5f9d3c83, clickElement {id=f.49FAC0D41008CFFBD226F50C9B704625.d.18C1EE0FE5D5D4E50687245A6FB291E0.e.719}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62959}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62959/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (46c55b77617561da0fd318fc5f9d3c83)] -> xpath: (//span[@class='ast-icon icon-bag'])[1]]
+Session ID: 46c55b77617561da0fd318fc5f9d3c83
+2024-07-15 12:27:15.415 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:27:15.695 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46c55b77617561da0fd318fc5f9d3c83, clickElement {id=f.49FAC0D41008CFFBD226F50C9B704625.d.18C1EE0FE5D5D4E50687245A6FB291E0.e.724}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62959}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62959/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (46c55b77617561da0fd318fc5f9d3c83)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 46c55b77617561da0fd318fc5f9d3c83
+2024-07-15 12:27:19.823 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:27:20.097 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46c55b77617561da0fd318fc5f9d3c83, clickElement {id=f.49FAC0D41008CFFBD226F50C9B704625.d.956E8BF865299160F680363795C1DE56.e.827}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62959}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62959/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (46c55b77617561da0fd318fc5f9d3c83)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 46c55b77617561da0fd318fc5f9d3c83
+2024-07-15 12:27:20.236 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:27:20.475 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:27:20.592 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:27:20.850 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:27:21.264 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:27:21.293 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:27:21.547 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:27:22.793 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:27:24.077 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 30). Other element would receive the click: <div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46c55b77617561da0fd318fc5f9d3c83, clickElement {id=f.49FAC0D41008CFFBD226F50C9B704625.d.520F23FDF23D809BBC5945FE2C6975C6.e.960}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62959}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62959/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (46c55b77617561da0fd318fc5f9d3c83)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: 46c55b77617561da0fd318fc5f9d3c83
+2024-07-15 12:27:30.779 [main] ERROR reusables.basePage - unexpected alert open: {Alert text : Checkout is completed!}
+  (Session info: chrome=126.0.6478.127): Checkout is completed!
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46c55b77617561da0fd318fc5f9d3c83, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62959}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62959/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 46c55b77617561da0fd318fc5f9d3c83
+2024-07-15 12:27:30.910 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:27:31.183 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-15 12:29:28.737 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-15 12:29:30.421 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-15 12:29:34.228 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-15 12:29:34.291 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-15 12:29:35.373 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:29:35.391 [main] INFO  pages.AccountPage - Inserting username
+2024-07-15 12:29:35.585 [main] INFO  pages.AccountPage - Inserting password
+2024-07-15 12:29:35.726 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-15 12:29:35.942 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [408d4d9176b34493ff07db1534af398d, clickElement {id=f.7D55655FFC5003A972D442631CF7A98D.d.5C427CE343329B35DFD42D255947B561.e.156}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63076}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63076/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (408d4d9176b34493ff07db1534af398d)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 408d4d9176b34493ff07db1534af398d
+2024-07-15 12:29:41.988 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:29:46.736 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:29:48.905 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-15 12:30:03.168 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:30:05.305 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:30:07.652 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:30:09.810 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-15 12:30:11.082 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:30:11.106 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-15 12:30:13.565 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:30:15.701 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-15 12:30:16.840 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:30:16.860 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:30:17.047 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-15 12:30:23.026 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-15 12:30:23.331 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [408d4d9176b34493ff07db1534af398d, clickElement {id=f.7D55655FFC5003A972D442631CF7A98D.d.44E99FC7FED8922659FAD55C4D5E61A7.e.714}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63076}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63076/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (408d4d9176b34493ff07db1534af398d)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 408d4d9176b34493ff07db1534af398d
+2024-07-15 12:30:29.199 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-15 12:30:29.411 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [408d4d9176b34493ff07db1534af398d, clickElement {id=f.7D55655FFC5003A972D442631CF7A98D.d.9C529CAC15AA9C44C0E5407A7F93C234.e.819}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63076}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63076/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (408d4d9176b34493ff07db1534af398d)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 408d4d9176b34493ff07db1534af398d
+2024-07-15 12:30:29.519 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-15 12:30:29.644 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-15 12:30:29.827 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-15 12:30:30.077 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-15 12:30:30.351 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-15 12:30:30.360 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-15 12:30:30.608 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-15 12:30:31.941 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-15 12:30:33.291 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 37). Other element would receive the click: <div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">...</div>
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [408d4d9176b34493ff07db1534af398d, clickElement {id=f.7D55655FFC5003A972D442631CF7A98D.d.D2918B8C27A037D323F21D81828F00B2.e.955}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63076}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63076/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (408d4d9176b34493ff07db1534af398d)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: 408d4d9176b34493ff07db1534af398d
+2024-07-15 12:30:39.389 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-15 12:30:39.690 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-23 20:52:37.244 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-23 20:52:41.645 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-23 20:52:47.056 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-23 20:52:47.150 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-23 20:52:48.140 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-23 20:52:48.158 [main] INFO  pages.AccountPage - Inserting username
+2024-07-23 20:52:48.365 [main] INFO  pages.AccountPage - Inserting password
+2024-07-23 20:52:48.506 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-23 20:52:48.744 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [868366c5256f55a65e580c94ce0dcfe3, clickElement {id=f.483036937EBE41F1537085C5CA57B8B5.d.EBA7B7F4D3A93777AE29FA689BDD4F66.e.170}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53449}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53449/devtoo..., se:cdpVersion: 126.0.6478.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (868366c5256f55a65e580c94ce0dcfe3)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 868366c5256f55a65e580c94ce0dcfe3
+2024-07-23 20:52:54.789 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-23 20:52:56.764 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-23 20:52:58.931 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-23 20:53:05.816 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-23 20:53:07.969 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-23 20:53:09.453 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-23 20:53:11.629 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-23 20:53:12.691 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-23 20:53:12.725 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-23 20:53:14.344 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-23 20:53:16.467 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-23 20:53:17.807 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-23 20:53:17.829 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-23 20:53:18.118 [main] ERROR reusables.basePage - stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [868366c5256f55a65e580c94ce0dcfe3, clickElement {id=f.483036937EBE41F1537085C5CA57B8B5.d.CBB62A28FDC3890D97A4AAF573BF81EF.e.699}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53449}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53449/devtoo..., se:cdpVersion: 126.0.6478.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (868366c5256f55a65e580c94ce0dcfe3)] -> xpath: (//span[@class='ast-icon icon-bag'])[1]]
+Session ID: 868366c5256f55a65e580c94ce0dcfe3
+2024-07-23 20:53:24.129 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-23 20:53:24.377 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [868366c5256f55a65e580c94ce0dcfe3, clickElement {id=f.483036937EBE41F1537085C5CA57B8B5.d.CBB62A28FDC3890D97A4AAF573BF81EF.e.704}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53449}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53449/devtoo..., se:cdpVersion: 126.0.6478.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (868366c5256f55a65e580c94ce0dcfe3)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 868366c5256f55a65e580c94ce0dcfe3
+2024-07-23 20:53:28.255 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-23 20:53:28.512 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [868366c5256f55a65e580c94ce0dcfe3, clickElement {id=f.483036937EBE41F1537085C5CA57B8B5.d.F4B43B7EAA5644EFE52BF62E99C61B30.e.786}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53449}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53449/devtoo..., se:cdpVersion: 126.0.6478.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (868366c5256f55a65e580c94ce0dcfe3)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 868366c5256f55a65e580c94ce0dcfe3
+2024-07-23 20:53:28.647 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-23 20:53:28.774 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-23 20:53:28.976 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-23 20:53:29.194 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-23 20:53:29.430 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-23 20:53:29.449 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-23 20:53:29.683 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-23 20:53:31.190 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-23 20:53:32.496 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 12). Other element would receive the click: <div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">...</div>
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [868366c5256f55a65e580c94ce0dcfe3, clickElement {id=f.483036937EBE41F1537085C5CA57B8B5.d.1DDD1091F53863DAB794A63B484C4F0B.e.920}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53449}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53449/devtoo..., se:cdpVersion: 126.0.6478.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (868366c5256f55a65e580c94ce0dcfe3)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: 868366c5256f55a65e580c94ce0dcfe3
+2024-07-23 20:53:38.635 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-23 20:53:38.916 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-25 16:37:26.698 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-25 16:37:28.986 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-25 16:37:34.685 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-25 16:37:34.755 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-25 16:37:35.775 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-25 16:37:35.791 [main] INFO  pages.AccountPage - Inserting username
+2024-07-25 16:37:35.986 [main] INFO  pages.AccountPage - Inserting password
+2024-07-25 16:37:36.115 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-25 16:37:36.333 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.183)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c21b941053dc6bffdf77c394ed4c6f0, clickElement {id=f.45EF5CE4B39627AF3063588580B9A6BB.d.82421B0EFC7A3180BC97D3CAAC7904EF.e.155}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63627}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63627/devtoo..., se:cdpVersion: 126.0.6478.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0c21b941053dc6bffdf77c394ed4c6f0)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 0c21b941053dc6bffdf77c394ed4c6f0
+2024-07-25 16:37:42.374 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-25 16:37:43.995 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-25 16:37:46.149 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-25 16:37:53.801 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-25 16:37:55.944 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-25 16:37:57.615 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-25 16:37:59.742 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-25 16:38:00.823 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-25 16:38:00.847 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-25 16:38:02.405 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-25 16:38:04.522 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-25 16:38:05.866 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-25 16:38:05.884 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-25 16:38:06.143 [main] ERROR reusables.basePage - stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.183)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c21b941053dc6bffdf77c394ed4c6f0, clickElement {id=f.45EF5CE4B39627AF3063588580B9A6BB.d.D1F234AE2A70C553C127C02D26DD91D8.e.674}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63627}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63627/devtoo..., se:cdpVersion: 126.0.6478.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0c21b941053dc6bffdf77c394ed4c6f0)] -> xpath: (//span[@class='ast-icon icon-bag'])[1]]
+Session ID: 0c21b941053dc6bffdf77c394ed4c6f0
+2024-07-25 16:38:12.114 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-25 16:38:12.342 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.183)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c21b941053dc6bffdf77c394ed4c6f0, clickElement {id=f.45EF5CE4B39627AF3063588580B9A6BB.d.D1F234AE2A70C553C127C02D26DD91D8.e.679}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63627}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63627/devtoo..., se:cdpVersion: 126.0.6478.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0c21b941053dc6bffdf77c394ed4c6f0)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 0c21b941053dc6bffdf77c394ed4c6f0
+2024-07-25 16:38:16.169 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-25 16:38:16.452 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.183)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c21b941053dc6bffdf77c394ed4c6f0, clickElement {id=f.45EF5CE4B39627AF3063588580B9A6BB.d.BB9C6A17180B942FBDE29BE5D8C9A0C3.e.790}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63627}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63627/devtoo..., se:cdpVersion: 126.0.6478.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0c21b941053dc6bffdf77c394ed4c6f0)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 0c21b941053dc6bffdf77c394ed4c6f0
+2024-07-25 16:38:16.576 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-25 16:38:16.731 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-25 16:38:16.929 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-25 16:38:17.169 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-25 16:38:17.452 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-25 16:38:17.469 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-25 16:38:17.684 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-25 16:38:18.987 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-25 16:38:20.275 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (534, 13). Other element would receive the click: <div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">...</div>
+  (Session info: chrome=126.0.6478.183)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c21b941053dc6bffdf77c394ed4c6f0, clickElement {id=f.45EF5CE4B39627AF3063588580B9A6BB.d.E70A4929C5215F8E22F10684B0508EC1.e.927}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.183, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63627}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63627/devtoo..., se:cdpVersion: 126.0.6478.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0c21b941053dc6bffdf77c394ed4c6f0)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: 0c21b941053dc6bffdf77c394ed4c6f0
+2024-07-25 16:38:26.327 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-25 16:38:26.626 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-26 12:13:56.322 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-26 12:13:57.873 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-26 12:14:00.618 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-26 12:14:00.687 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-26 12:14:01.694 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 12:14:01.714 [main] INFO  pages.AccountPage - Inserting username
+2024-07-26 12:14:01.936 [main] INFO  pages.AccountPage - Inserting password
+2024-07-26 12:14:02.069 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-26 12:14:02.303 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.185)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7e1fc4cf07e4c75ee0885f330f3f323, clickElement {id=f.AB8B095306BDB2D4F334B81EDFF55211.d.9CCD4D90942F2CFF20464127E251AA0B.e.169}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62010/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d7e1fc4cf07e4c75ee0885f330f3f323)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: d7e1fc4cf07e4c75ee0885f330f3f323
+2024-07-26 12:14:08.353 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-26 12:14:10.036 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 12:14:12.189 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-26 12:14:17.311 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 12:14:19.452 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-26 12:14:21.248 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 12:14:23.414 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-26 12:14:24.411 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 12:14:24.489 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-26 12:14:26.162 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 12:14:28.275 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-26 12:14:29.525 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 12:14:29.547 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-26 12:14:29.773 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 12:14:35.829 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-26 12:14:36.122 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7e1fc4cf07e4c75ee0885f330f3f323, clickElement {id=f.AB8B095306BDB2D4F334B81EDFF55211.d.CDFA3814454DB9D2F7C02305863ACA0D.e.740}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62010/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d7e1fc4cf07e4c75ee0885f330f3f323)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: d7e1fc4cf07e4c75ee0885f330f3f323
+2024-07-26 12:14:39.923 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-26 12:14:40.317 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7e1fc4cf07e4c75ee0885f330f3f323, clickElement {id=f.AB8B095306BDB2D4F334B81EDFF55211.d.DFD0D4D2125336430F92528298AA0BED.e.827}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62010/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d7e1fc4cf07e4c75ee0885f330f3f323)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: d7e1fc4cf07e4c75ee0885f330f3f323
+2024-07-26 12:14:40.433 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-26 12:14:40.594 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-26 12:14:40.811 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-26 12:14:41.198 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-26 12:14:41.484 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-26 12:14:41.509 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-26 12:14:41.783 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-26 12:14:43.064 [main] INFO  pages.BestSellingShoppingCart - selecting state from dropdown menu..
+2024-07-26 12:14:44.414 [main] ERROR reusables.basePage - element click intercepted: Element <span class="select2-selection__arrow" role="presentation">...</span> is not clickable at point (705, 24). Other element would receive the click: <div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">...</div>
+  (Session info: chrome=126.0.6478.185)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7e1fc4cf07e4c75ee0885f330f3f323, clickElement {id=f.AB8B095306BDB2D4F334B81EDFF55211.d.92CF14316E33BB0300F09405541227F5.e.968}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62010/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d7e1fc4cf07e4c75ee0885f330f3f323)] -> xpath: (//span[@class='select2-selection__arrow'])[1]]
+Session ID: d7e1fc4cf07e4c75ee0885f330f3f323
+2024-07-26 12:14:50.446 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-26 12:14:50.799 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-26 15:52:03.991 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-26 15:52:07.252 [main] INFO  reusables.testingBase - Opening Browser !!
+2024-07-26 15:52:12.557 [main] INFO  reusables.testingBase - Test Setup Done !
+2024-07-26 15:52:12.637 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-26 15:52:13.711 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 15:52:13.731 [main] INFO  pages.AccountPage - Inserting username
+2024-07-26 15:52:13.970 [main] INFO  pages.AccountPage - Inserting password
+2024-07-26 15:52:14.121 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-26 15:52:14.324 [main] ERROR reusables.basePage - element not interactable
+  (Session info: chrome=126.0.6478.185)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f09fc5a15abe61f36e328818ccda088, clickElement {id=f.CEECB3DC05955558E8ED3024FD56BD83.d.26BF08E796FB0D306467961165C6D84E.e.169}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51732/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7f09fc5a15abe61f36e328818ccda088)] -> xpath: (//button[(text() ='Sign in')])[3]]
+Session ID: 7f09fc5a15abe61f36e328818ccda088
+2024-07-26 15:52:20.372 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-26 15:52:21.831 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 15:52:24.016 [main] INFO  pages.BestSellingShoppingCart - Getting the Square Canvas Wraps ...
+2024-07-26 15:52:32.425 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 15:52:34.572 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-26 15:52:37.166 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 15:52:39.328 [main] INFO  pages.BestSellingShoppingCart - Clicking on Best Selling Products page..
+2024-07-26 15:52:40.485 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 15:52:40.535 [main] INFO  pages.BestSellingShoppingCart - Getting the Kids Tee ...
+2024-07-26 15:52:42.497 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 15:52:44.638 [main] INFO  pages.BestSellingShoppingCart - Adding the square frame to cart ...
+2024-07-26 15:52:46.012 [main] INFO  reusables.basePage - Screenshot taken...
+2024-07-26 15:52:46.052 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-26 15:52:46.366 [main] ERROR reusables.basePage - stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f09fc5a15abe61f36e328818ccda088, clickElement {id=f.CEECB3DC05955558E8ED3024FD56BD83.d.0EBB33A5358BDE515FA6412339EABF09.e.698}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51732/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7f09fc5a15abe61f36e328818ccda088)] -> xpath: (//span[@class='ast-icon icon-bag'])[1]]
+Session ID: 7f09fc5a15abe61f36e328818ccda088
+2024-07-26 15:52:52.395 [main] INFO  pages.BestSellingShoppingCart - Showing the items in the cart ...
+2024-07-26 15:52:52.736 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f09fc5a15abe61f36e328818ccda088, clickElement {id=f.CEECB3DC05955558E8ED3024FD56BD83.d.0EBB33A5358BDE515FA6412339EABF09.e.703}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51732/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7f09fc5a15abe61f36e328818ccda088)] -> xpath: //body/div[@id='page']/div[@id='astra-mobile-cart-drawer']/div[2]/div[1]/div[1]/p[2]/a[1]]
+Session ID: 7f09fc5a15abe61f36e328818ccda088
+2024-07-26 15:52:56.767 [main] INFO  pages.BestSellingShoppingCart - Going to check out items ...
+2024-07-26 15:52:57.203 [main] ERROR reusables.basePage - stale element reference: stale element not found
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f09fc5a15abe61f36e328818ccda088, clickElement {id=f.CEECB3DC05955558E8ED3024FD56BD83.d.4217E8E583478C00FCE08F10C462E37E.e.806}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\shimu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51732/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7f09fc5a15abe61f36e328818ccda088)] -> xpath:  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]]
+Session ID: 7f09fc5a15abe61f36e328818ccda088
+2024-07-26 15:52:57.485 [main] INFO  pages.BestSellingShoppingCart - Inserting firstname apple
+2024-07-26 15:52:57.648 [main] INFO  pages.BestSellingShoppingCart - Inserting lastname xyz
+2024-07-26 15:52:57.861 [main] INFO  pages.BestSellingShoppingCart - Inserting address
+2024-07-26 15:52:58.745 [main] INFO  pages.BestSellingShoppingCart - Inserting cityname
+2024-07-26 15:52:59.037 [main] INFO  pages.BestSellingShoppingCart - Inserting zipcode
+2024-07-26 15:52:59.067 [main] INFO  pages.BestSellingShoppingCart - Inserting phone number.
+2024-07-26 15:52:59.378 [main] INFO  pages.BestSellingShoppingCart - Inserting email address: xyz@gmail.com
+2024-07-26 15:53:01.773 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-26 15:53:02.120 [main] INFO  reusables.testingBase - Test Completed !!!

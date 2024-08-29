@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" verbose="2">
+    <test name = "Test1">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="url" value="https://islahiart.com/"></parameter>
+    <classes>
+        <class name="islahiArtTest.loginPageTest"/>
+        <class name="islahiArtTest.addViewingCartTest"/>
+        <class name="islahiArtTest.checkOutTest"/>
+
+       <!-- <methods><include name="verifyLogin"/></methods> -->
+
+    </classes>
+    </test>
+</suite>
